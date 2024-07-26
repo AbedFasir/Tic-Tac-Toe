@@ -28,6 +28,9 @@ button {
    display: flex;
    flex-direction: column;
    gap: 8vmin;
+   width: 80%;
+   height: 80vh;
+   margin: 0 auto;
 }
 
 .container {
